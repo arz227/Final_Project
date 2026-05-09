@@ -1,4 +1,4 @@
-//-----------------FINAL PROJECT----------------------------------
+//FINAL PROJECT
 #include <iostream>
 #include <stack>
 #include <vector>
